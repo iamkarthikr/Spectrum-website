@@ -1,0 +1,133 @@
+
+.thumbnail{
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 4px;
+    display: block;
+    margin-bottom: 20px;
+}
+.caption{
+    padding: 9px;
+
+}
+p{
+    font-size: 16px;
+    line-height: 27px;
+    margin: 0 0 14px 0;
+}
+strong{
+    color: #ccc;
+}
+.visit ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.visit a{
+    text-decoration: none;
+    color:#fff;
+}
+.footer{
+    background: black;
+    padding: 50px 0 0;
+    margin-top: 50px;
+    color:#ccc;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 44px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}   
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-rss {
+    background: #ff6600;
+    color: white;
+}
+.footerlist{
+    float: right;
+        
+}   
+.footerlist li{
+    display: inline;
+}
+.footerlist a{
+    text-decoration: none;
+    color:#fff;
+}
+.footer h4{
+    color: #fff;
+}
+.headernav a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.headernav a:hover,.headernav a:active{
+    background-color:rgba(8, 166, 240, 0.829);
+    border-radius: 15px;
+    height: 40px;
+
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+.slide{
+    padding: 30px 60px 0px 60px;
+}
+.awhite{
+    text-decoration: none;
+    color: white;
+}
+.push-top{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-size: 50px;
+}
+.lists{
+    line-height: 30px;
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+hr{ 
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+  }
+  .office{
+      padding-top: 10px;
+  }
+.office h4{
+    text-decoration: none;
+    font-weight: 400;
+    padding:10px 0 10px 0 ;
+  }
+  .office strong{
+      color: black;
+      font-weight: 600;
+  }
+  .office li{
+      font-size: 16px;
+      margin: 1px;
+  }
